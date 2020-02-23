@@ -1,0 +1,5 @@
+// Add two integers and returns the sum  
+    public int Add(int num1, int num2)  
+    {  
+        return num1 + num2;  
+    }
